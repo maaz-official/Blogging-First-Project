@@ -1,5 +1,3 @@
-To create a structured README for your "Blogging-First-Project" on GitHub, you should include sections that describe the project, how to set it up, and any dependencies or prerequisites needed. Here's a sample README template you can adapt to your project:
-
 ```markdown
 # Blogging-First-Project
 
